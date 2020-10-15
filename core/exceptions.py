@@ -1,2 +1,0 @@
-class ColumnFilledException(Exception):
-    pass
